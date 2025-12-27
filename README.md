@@ -1,16 +1,22 @@
-## Hi there 👋
+# STRÓMANÓ társasjáték
 
-<!--
-**stromanok/stromanok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ > Oszd meg és terjeszd az egész országban! Korlátlanul terjeszthető.
 
-Here are some ideas to get you started:
+ ## Mi az a STRÓMANÓ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Egy vicces, könnyen tanulható társasjáték, ami még a kormányt is kritizálja. Mi kell még? A Thorsten Gimmler által tervezett "Nincs Kegyelem" játék alapján készült. 
+
+ ## Elkészítés
+
+ A játékhoz ki kell nyomtatni és kivágni a lapokat, valamint érméket kell szerezni. Érdemes vastag papírra nyomtatni, a lapok sarkait lekerekíteni, és laminálni őket a tartósság érdekében. Érdemes lehet fénymásoló boltban (pl.: Copyguru) kinyomtatni őket.
+
+ Korongnak használhatóak gombok, 5 forintosok, csavaranyák. Egy rendes műanyag zseton kb. 30-50 forint, egy póker zseton még több.
+
+ Egy készlet tartalma:
+  * Számozott lapok 2-35
+  * Különleges lapok
+    * Doktor Miniszterelnök Úr
+    * 2 körfördító
+    * 9 különleges lap (DLC)
+  * 56 játékérme
+  * Szabályzat
