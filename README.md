@@ -4,7 +4,8 @@
 
  ## Mi az a STRÓMANÓ?
 
- ![Kép betöltése sikertelen :(](./images/content.jpg)
+ ![Kép betöltése sikertelen :(](./images/cards_sample.jpg)
+  ![Kép betöltése sikertelen :(](./images/játék_közben_ferdén.jpg)
 
  Egy vicces, könnyen tanulható társasjáték, ami még a kormányt is kritizálja. Mi kell még? A Thorsten Gimmler által tervezett "Nincs Kegyelem" játék alapján készült. 
 
@@ -22,3 +23,5 @@
     * 9 különleges lap (DLC)
   * 56 játékérme
   * Szabályzat
+
+![Kép betöltése sikertelen :(](./images/doboz_tartalma.jpg)
