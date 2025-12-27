@@ -4,6 +4,8 @@
 
  ## Mi az a STRÓMANÓ?
 
+ ![Kép betöltése sikertelen :(](./images/content.jpg)
+
  Egy vicces, könnyen tanulható társasjáték, ami még a kormányt is kritizálja. Mi kell még? A Thorsten Gimmler által tervezett "Nincs Kegyelem" játék alapján készült. 
 
  ## Elkészítés
